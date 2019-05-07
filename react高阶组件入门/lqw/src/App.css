@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.a-container{
+  width: 300px;
+  height:500px;
+  float:left;
+  margin-right: 10px;
+  border: 2px solid rgb(247,87,87);
+}
+.a-container .header{
+  width:300px;
+  height: 50px;
+  background:  rgb(247, 87, 87);
+}
+.title{
+  float:left;
+  color:#ffff;
+  font-size: 14px;
+  text-align: center;
+  line-height: 50px;
+  margin-left:20px;
+}
+.xxx{
+  float:right;
+  color:#ffff;
+  font-size: 14px;
+  text-align: center;
+  line-height: 50px;
+  margin-right: 20px;
+}
